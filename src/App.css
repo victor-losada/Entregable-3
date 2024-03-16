@@ -1,0 +1,13 @@
+.app_1 {
+background-color: rgb(19, 48, 54);   
+ color: white;
+}
+.container-resident {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
+.app__title {
+text-align: center;
+}
